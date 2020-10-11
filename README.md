@@ -1,5 +1,5 @@
 # Python Pandas and Matplotlib Examples
-Using historical NFL data to illustrate the main topics discussed in Module 4 and 5. Importing CSV data with Pandas, managing the data, drawing plots. 
+Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis class. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. 
 
 I am the proud currator of a database of NFL game data, straight from the NFL servers, which I started in 1993. Now I have 27 years worth of the data, over 14,600 games, 72 variables per game, in a MySQL database. Can this data be mined to gather information or insight into what makes a team win?
 
