@@ -12,7 +12,7 @@ Here is a picture of Bud Goode with his friend Adam West (Bud is on the right). 
 
 ![Bud Goode](Images/bud_goode_adam_west.jpeg)
 
-I followed the general topics of Module 4 and 5 and created some Jupyter notebook examples showing how to import some NFL data from a CSV file, clean the data, draw plots.
+I followed the general topics of Module 4 and 5 and created some Jupyter notebook examples showing how to import some NFL data from a CSV file, clean the data, draw plots, see trends.
 
 The CSV file used on this project was created by picking a few choice variables from my MySQL database, spanning 27 years.
 
