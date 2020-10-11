@@ -1,7 +1,7 @@
 # Python Pandas and Matplotlib Examples
 Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis class. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. 
 
-I am the proud currator of a database of NFL game data, straight from the NFL servers, which I started in 1993. Now I have 27 years worth of the data, over 14,600 games, 72 variables per game, in a MySQL database. Can this data be mined to gather information or insight into what makes a team win?
+I am the currator of a database of NFL game data, which I started in 1993, for BudGoodeSports.com. Now I have 27 years worth of the data, over 14,600 games, 72 variables per game, in a MySQL database. Can this data be mined to gather information or insight into what makes a team win?
 
 ## Background
 Since 1988 I've been in a project involving NFL statistics. Bud Goode was a pioneer in sports statistics, going all the way back to 1960 and crunching game data with a mainframe computer the size of a large room. He died in 2010 at the age of 88. But from 1988 to 2010 I helped him retrieve the data weekly from the NFL servers, crunch the data, and send out weekly reports to several NFL teams. These reports included advice to the coaches from the statistical point of view. 
