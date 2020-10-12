@@ -1,10 +1,10 @@
-#Data Visualization Class Examples
+# Data Visualization Class Examples
 
 I'm Jon Richardsn the Instructory for the 2020-2021 Data Visualization and Data Analytics Bootcamp, UC Berkeley Extension, Monday/Wednesday class.
 
 This repository is a place where I'll place various examples and code as I am working through them and explaining then. This will be a mish-mash.
 
-##nfl
+## nfl
 
 This directory contains examples using historical data from the National Football League (AKA the NFL). 
 
