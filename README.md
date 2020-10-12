@@ -1,8 +1,8 @@
 # Data Visualization Class Examples
 
-I'm Jon Richardsn the Instructory for the 2020-2021 Data Visualization and Data Analytics Bootcamp, UC Berkeley Extension, Monday/Wednesday class.
+I'm Jon Richards, the Instructory for the 2020-2021 Data Visualization and Data Analytics Bootcamp, UC Berkeley Extension, Monday/Wednesday class.
 
-This repository is a place where I'll place various examples and code as I am working through them and explaining then. This will be a mish-mash.
+This repository is a place where I'll place various examples and code as I am working through them and explaining them. This will be a mish-mash, a bit of this and a bit of that.
 
 ## nfl
 
