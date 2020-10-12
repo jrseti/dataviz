@@ -1,0 +1,4 @@
+#Pandas and related examples
+
+* loop_examples.ipynb - a refresher on loops in Python
+* pandas_zoo.ipynb - a simple Pandas review
