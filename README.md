@@ -1,5 +1,5 @@
 # Python Pandas and Matplotlib Examples
-Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis class. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. Plots like these:
+Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis Bootcamp. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. Plots like these:
 
  ![NFL Total Rushing Plays](Images/nfl_stats1_total_rushing.png)
 
