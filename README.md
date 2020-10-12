@@ -1,5 +1,7 @@
 # Python Pandas and Matplotlib Examples
-Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis class. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. 
+Using historical NFL data to illustrate the main topics discussed in Module 4 and 5 of the UC Berkeley Extension Data Visualization and Data Analysis class. The included notebooks show importing CSV data with Pandas, managing the data, drawing plots. Plots like these:
+
+ ![NFL Total Rushing Plays](Images/nfl_stats1_total_rushing.png)
 
 I am the currator of a database of NFL game data, which I started in 1993, for BudGoodeSports.com. Now I have 27 years worth of the data, over 14,600 games, 72 variables per game, in a MySQL database. Can this data be mined to gather information or insight into what makes a team win?
 
@@ -27,13 +29,17 @@ This notebook contains examples cover the following:
 3. Draw some plots
 4. Draw trend lines on the plots.
 
+![NFL QB Sacks](Images/nfl_stats1_qbsacks.png)
+
 ## nfl_stats2.ipynb
 
 This notebook contains examples cover the following:
 
 1. Read in a CSV file into a Pandas DataFrame
 2. Creating functions to clean the data and draw plots. This makes the code cleaner.
-3. Draw scatter plots and bxx plots. 
+3. Draw scatter plots and bxx plots.
+
+ ![NFL Yards Per Pass Attempt Difference](Images/nfl_stats2_yppa.png)
 
 ## nfl_stats3.ipynb
 
@@ -44,3 +50,4 @@ This notebook contains examples cover the following:
 3. Create a function extract a DataFrame based on the team, year
 4. Create a line plot with 2 valiables from the extracted data for one year, one team.
 
+ ![NFL Yards Per Pass Attempt Differenc vs Winning Margin](Images/nfl_stats3_yvw.png)
