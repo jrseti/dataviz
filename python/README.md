@@ -5,3 +5,4 @@
 * plot_examples.ipynb - some simple Matplotlib examples
 * list_comprehension.ipynb - some simple list compreension examples
 * lambda_examples.ipynb - some simple lambda examples
+* pandas_loc_iloc.ipynb - some examples of Pandas loc() and ilic()
