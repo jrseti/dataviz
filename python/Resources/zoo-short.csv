@@ -1,0 +1,9 @@
+animal,uniq_id,water_need,gender
+elephant,1099,500,F
+elephant,1002,600,F
+tiger,1005,520,M
+tiger,1006,330,F
+zebra,1009,180,F
+zebra,1010,220,M
+kangaroo,1022,190,M
+
