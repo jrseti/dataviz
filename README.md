@@ -4,9 +4,9 @@ I'm Jon Richards, the Instructory for the 2020-2021 Data Visualization and Data 
 
 This repository is a place where I'll place various examples and code as I am working through them and explaining them. This will be a mish-mash, a bit of this and a bit of that.
 
-## pandas
+## python
 
-This directory contains some examples relating to Pandas and also Python lists. I'll go through these in class.
+This directory contains some examples relating to Python and also Pandas. I'll go through these in class.
 
 ## nfl
 
