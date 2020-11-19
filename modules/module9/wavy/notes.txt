@@ -1,0 +1,42 @@
+
+9.1.4 - SQLite can be run on a phone. No secirity.
+
+9.1.5
+To experiment with the sqlite file path I put my file in a Resources directory and changed the URL
+engine = create_engine("sqlite:///Resources/hawaii.sqlite")
+NOTE that if the file does not exist yet, it will be created.
+
+Base.classes gives us access to all the classes.
+keys() references all the names of the classes.
+
+9.2.4
+Had to rotate the x axis labels
+df.plot(rot=90)
+
+9.2.5
+
+  1. Mean: the average, which you can find by adding up all the numbers in a dataset and dividing by the number of numbers.
+  2. Variance: how far a set of numbers is from the average.
+  3. Standard deviation: a measure of how spread out numbers in a dataset are; the square root of the variance.
+  4. Minimum: the smallest number in a dataset.
+  5. Maximum: the largest number in a dataset.
+  6. Percentiles: where the number is in relation to the rest of the set of data.
+  7. Count: the total number of numbers or items in a dataset.
+  
+SQLite get table column names:
+
+Measurement = Base.classes.measurement
+['id', 'station', 'date', 'prcp', 'tobs']
+
+Station.__table__.columns.keys()
+['id', 'station', 'name', 'latitude', 'longitude', 'elevation']
+
+## PYTHON __main__
+import app
+
+print("example __name__ = %s", __name__)
+
+if __name__ == "__main__":
+    print("example is being run directly.")
+else:
+    print("example is being imported")

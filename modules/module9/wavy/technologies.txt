@@ -1,0 +1,22 @@
+Which technologies have we covered so far in this course?
+
+Technology              Competitor 1             Competitor 2
+----------              ------------             ------------
+Excel                   Google Sheets            Python/Pandas
+VBA                     Python                   Javascript
+Python                  VBA                      Javascript
+JSON
+Postgres                SQLite                   MySQL            Access
+VSCode                  Jupyter Notebooks        PyCharms
+Pandas
+Matplotlib              Tableau                  Plotly
+terminal                Jupyter Notebook         VSCode
+Flask                   
+ETL                     
+Web API                 Scraping                 Download/Read file
+SQL Alchemy             SQLite            
+ERD                     Text/Pseudo code
+
+
+
+
