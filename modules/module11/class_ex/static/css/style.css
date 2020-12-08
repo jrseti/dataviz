@@ -1,0 +1,19 @@
+body {
+    background-color: #00ffae41;
+    margin: 22px;
+ }
+ h1 {
+     color:rgb(41, 9, 24);
+     font-size: 32px;
+ }
+ ul {
+     font-size: 22px;
+ }
+ p.p1 {
+     color: black;
+     font-size: 22px;
+ }
+ p.p2 {
+     color: red;
+     font-size: 28px;
+ }
