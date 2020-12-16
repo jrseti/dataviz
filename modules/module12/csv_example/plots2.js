@@ -28,6 +28,12 @@ const stateData = {
         name: 'New York', 
         filename: 'new-york-history.csv',
         available_icu_beds: 3814
+    },
+    illinois:
+    {
+        name: 'Illinois', 
+        filename: 'illinois-history.csv',
+        available_icu_beds: 2050
     }
 };
 
